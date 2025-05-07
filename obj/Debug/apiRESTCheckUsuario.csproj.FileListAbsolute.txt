@@ -1,0 +1,286 @@
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.csproj.AssemblyReference.cache
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.csproj.CoreCompileInputs.cache
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\apiRESTCheckUsuario.dll.config
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\apiRESTCheckUsuario.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\apiRESTCheckUsuario.pdb
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csc.exe
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csc.exe.config
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csc.rsp
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csi.exe
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csi.exe.config
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csi.rsp
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.AppContext.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Collections.Immutable.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Console.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Globalization.Calendars.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.IO.Compression.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.IO.FileSystem.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Net.Http.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Net.Sockets.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Reflection.Metadata.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.ValueTuple.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Xml.XPath.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\vbc.exe
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\vbc.exe.config
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\vbc.rsp
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\VBCSCompiler.exe
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\VBCSCompiler.exe.config
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Antlr3.Runtime.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Microsoft.Web.Infrastructure.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\MySql.Data.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Newtonsoft.Json.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Net.Http.Formatting.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Helpers.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Http.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Http.WebHost.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Mvc.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Optimization.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Razor.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.Deployment.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.Razor.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\WebGrease.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Newtonsoft.Json.xml
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Net.Http.Formatting.xml
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Helpers.xml
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Http.xml
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Http.WebHost.xml
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Mvc.xml
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Optimization.xml
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Razor.xml
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.xml
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.Deployment.xml
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.Razor.xml
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Antlr3.Runtime.pdb
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Helpers.resources.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Http.resources.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Mvc.resources.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Optimization.resources.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Razor.resources.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.WebPages.resources.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTC.1CD900A5.Up2Date
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.dll
+D:\Escritorio\TallerAVDeSW\2\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.pdb
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\apiRESTCheckUsuario.dll.config
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\apiRESTCheckUsuario.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\apiRESTCheckUsuario.pdb
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csc.exe
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csc.exe.config
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csc.rsp
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csi.exe
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csi.exe.config
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csi.rsp
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.AppContext.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Console.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.IO.Compression.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Net.Http.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.ValueTuple.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\vbc.exe
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\vbc.exe.config
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\vbc.rsp
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\VBCSCompiler.exe
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Antlr3.Runtime.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Newtonsoft.Json.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Net.Http.Formatting.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Helpers.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Http.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Http.WebHost.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Mvc.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Optimization.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Razor.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.Razor.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\WebGrease.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Newtonsoft.Json.xml
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Net.Http.Formatting.xml
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Helpers.xml
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Http.xml
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Http.WebHost.xml
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Mvc.xml
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Optimization.xml
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Razor.xml
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.xml
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.Razor.xml
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Antlr3.Runtime.pdb
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Helpers.resources.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Http.resources.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Mvc.resources.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Optimization.resources.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Razor.resources.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.WebPages.resources.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.csproj.AssemblyReference.cache
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.csproj.CoreCompileInputs.cache
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.csproj.CopyComplete
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.dll
+C:\Users\cpara\source\repos\apiRESTCheckUsuario\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.pdb
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\apiRESTCheckUsuario.dll.config
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\apiRESTCheckUsuario.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\apiRESTCheckUsuario.pdb
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csc.exe
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csc.exe.config
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csc.rsp
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csi.exe
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csi.exe.config
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\csi.rsp
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.AppContext.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Console.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.IO.Compression.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Net.Http.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Net.Sockets.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.ValueTuple.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\vbc.exe
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\vbc.exe.config
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\vbc.rsp
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\VBCSCompiler.exe
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Antlr3.Runtime.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Newtonsoft.Json.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Net.Http.Formatting.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Helpers.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Http.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Http.WebHost.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Mvc.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Optimization.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Razor.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.Deployment.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.Razor.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\WebGrease.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Newtonsoft.Json.xml
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Net.Http.Formatting.xml
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Helpers.xml
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Http.xml
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Http.WebHost.xml
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Mvc.xml
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Optimization.xml
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.Razor.xml
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.xml
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.Deployment.xml
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\System.Web.WebPages.Razor.xml
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Antlr3.Runtime.pdb
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Helpers.resources.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Http.resources.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Mvc.resources.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Optimization.resources.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.Razor.resources.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.WebPages.resources.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.csproj.AssemblyReference.cache
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.csproj.CoreCompileInputs.cache
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTC.1CD900A5.Up2Date
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.dll
+C:\Users\danno\Documents\universidad\universidad\TallerAvDeSW\2do seguimiento\apiRESTCheckUsuario\apiRESTCheckUsuario\obj\Debug\apiRESTCheckUsuario.pdb
